@@ -18,5 +18,7 @@ The dataset includes:
 3.Uses diverse visualization types for enhanced clarity
 4.Designed with performance, readability, and insight generation in mind
 <img width="1164" height="653" alt="Screenshot 2025-07-28 230927" src="https://github.com/user-attachments/assets/9139ac74-315f-4dcd-91fb-39da4bbd12e3" />
+
 <img width="1161" height="652" alt="Screenshot 2025-07-28 230941" src="https://github.com/user-attachments/assets/90cad106-036e-4337-a453-da68ba1d47a7" />
+
 <img width="1165" height="656" alt="Screenshot 2025-07-28 231037" src="https://github.com/user-attachments/assets/98081e29-d71a-435c-a18e-1d64a75c76cc" />
